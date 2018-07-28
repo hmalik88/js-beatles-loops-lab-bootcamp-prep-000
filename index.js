@@ -7,6 +7,7 @@ return newlist;
 }
 function johnLennonFacts(facts) {
   while (facts.length>0) {
+    let i = 0
     
   }
 }
