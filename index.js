@@ -6,3 +6,6 @@ newlist[i]=`${musicians[i]} plays ${instruments[i]}`;
 }
 return newlist;
 }
+function johnLennonFacts(facts) {
+  while (facts.length)
+}
