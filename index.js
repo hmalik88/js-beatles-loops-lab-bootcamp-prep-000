@@ -7,7 +7,7 @@ return newlist;
 }
 
 function iLoveTheBeatles (n) {
-  emptyarray = [];
+var emptyarray = [];
   do {
     emptyarray.push("I love the Beatles!");
     n++;
