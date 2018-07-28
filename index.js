@@ -5,7 +5,11 @@ newlist[i]=`${musicians[i]} plays ${instruments[i]}`;
 }
 return newlist;
 }
-
+function johnLennonFacts(facts) {
+  while (facts.length>0) {
+    
+  }
+}
 function iLoveTheBeatles (n) {
 var emptyarray = [];
   do {
