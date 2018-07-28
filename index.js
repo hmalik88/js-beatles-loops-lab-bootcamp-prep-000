@@ -6,10 +6,10 @@ newlist[i]=`${musicians[i]} plays ${instruments[i]}`;
 return newlist;
 }
 function johnLennonFacts(facts) {
-  while (facts.length>0) {
-    let i = 0
-    
+  for (let i=0; i<facts.length; i++) {
+    facts[i]=facts[i] + "!!!";
   }
+  return facts;
 }
 function iLoveTheBeatles (n) {
 var emptyarray = [];
